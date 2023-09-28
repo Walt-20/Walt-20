@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Walt Wawra
 - 👀 I’m interested in Technology and the great Outdoors!
-- 🌱 I’m currently a student at The University of Texas at El Paso, expecting to graduate with a Bachelor's of Science in Computers and a Minor in Mathematics.
+- 🌱 I’m currently a student at The University of Texas at El Paso, expecting to graduate with a Bachelor of Science in Computer Sccience.
 - 📫 You can reach me on LinkedIn: https://www.linkedin.com/in/wlrw
 
 <!---
